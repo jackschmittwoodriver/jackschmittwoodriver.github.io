@@ -1,1 +1,3 @@
-# jackschmittwoodriver.github.io
+# Review Website For JSCWR
+
+Solicits Google reviews and customer feedback.
